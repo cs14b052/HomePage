@@ -3,7 +3,7 @@ div#frontPage{
 	background-color:#ffffff;
 	background-image: url(http://feelgrafix.com/data/background-images/Background-Images-6.jpg);
 	background-repeat:no-repeat;
-	height : 100vh;
+	height : 100%;
 	font-family: georgia;
 }
 
