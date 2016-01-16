@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Meghana</title>
+	<link href="home.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+	<div id="frontPage">
+		<h1 id="name"><b>S Meghana Aparna</b></h1>
+		<a class="top" style="left:15%; font-size=200%;" href="#aboutme">ABOUT ME</a>
+		<a class="top" style="left:75%; font-size=200%;"href="#education">EDUCATION</a>
+		<a class="bottom" style="left:15%; font-size=200%;" href="#projects">PROJECTS</a>
+		<a class="bottom" style="left:75%; font-size=200%;" href="#skills">SKILLS</a>
+	</div>
+	
+	<div id="info" style="vertical-align:top;">
+		<a name="aboutme">
+			<h2 align="center" style="color:#151B54;"> ABOUT ME
+			<hr></hr>
+			</h2>
+		</a> 
+	</div>
+	
+</body>
+</html>

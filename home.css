@@ -1,0 +1,33 @@
+div#frontPage{
+	margin: auto;
+	background-color:#ffffff;
+	background-image: url(http://feelgrafix.com/data/background-images/Background-Images-6.jpg);
+	background-repeat:no-repeat;
+	height : 100%;
+	font-family: georgia;
+}
+
+
+h1#name{
+	position:absolute;
+	top:200px;
+	left:30%;
+	font-size:300%;
+}
+
+body {
+	color : #151B54;
+	background-color:#ffffff;
+	background-position:top center;
+}
+
+a.top{
+	position:absolute;
+	top:10%;
+	font-family:georgia;
+}
+a.bottom{
+	position:absolute;
+	top:80%;
+	font-family:georgia;
+}
