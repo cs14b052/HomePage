@@ -6,9 +6,10 @@ div#frontPage{
 
 
 h1#name{
+	align:center;
 	position:absolute;
 	top:35%;
-	left:25%;
+	/*left:25%;*/
 	font-size:300%;
 	color:#151B54;
 }

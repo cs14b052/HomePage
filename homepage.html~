@@ -10,9 +10,9 @@
 	<div id="frontPage">
 		<h1 id="name"><b>S Meghana Aparna</b></h1>
 		<a class="top" style="left:10%; font-size=200%;" href="#aboutme">ABOUT ME</a>
-		<a class="top" style="left:75%; font-size=200%;"href="#education">EDUCATION</a>
+		<a class="top" style="right:15%; font-size=200%;"href="#education">EDUCATION</a>
 		<a class="bottom" style="left:10%; font-size=200%;" href="#projects">PROJECTS</a>
-		<a class="bottom" style="left:70%; font-size=200%;" href="#skills">COURSES AND SKILLS</a>
+		<a class="bottom" style="right:10%; font-size=200%;" href="#skills">COURSES AND SKILLS</a>
 	</div>
 	
 	<div id="info" style="margin-top:0px;">
